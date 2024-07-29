@@ -28,4 +28,4 @@ The zip files "means 2nd correction.zip" and "means 3rd correction.zip" contain 
 
 The zip file "ztf_sandra.txt" contains ​​the stretch factor values and the corresponding errors for each sp. With the code "velocity.py", compute the velocity of supernovae with third correction between epochs -1 and 1. 
 
-Using the file "supernovae_velocities_km." and the code "v vs st.py" code, plot the velocity versus stretch factor.
+Using the file "supernovae_velocities and st km.txt" and the code "v vs st.py" code, plot the velocity versus stretch factor (v vs st.png).
