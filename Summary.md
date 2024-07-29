@@ -6,7 +6,7 @@ Use the code "correction1.py" to apply the first and second corrections to the s
 
 Use the code "correction3.py" to apply the third correction to those sp listed with the value of ebv_host in "new sp sorted.xlsx".
 
-Apply the "spectras2.py" code to plot four spectra (original, 1st correction, 2nd correction and 3rd correction if applicable) for each sp.
+Apply the "spectres2.py" code to plot four spectra (original, 1st correction, 2nd correction and 3rd correction if applicable) for each sp.
 
 In the zip files "sp data 1.zip", "sp data 2.zip" and "sp data 3.zip" are all the files of the corrected spectra and the corresponding graphics.
 
